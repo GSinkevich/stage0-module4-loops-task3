@@ -1,4 +1,4 @@
-package school.mjc.stage0.base;
+package school.mjc.stage0.loops.task3.base;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

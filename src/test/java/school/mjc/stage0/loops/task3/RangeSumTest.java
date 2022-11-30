@@ -1,6 +1,6 @@
 package school.mjc.stage0.loops.task3;
 
-import school.mjc.stage0.base.BaseIOTest;
+import school.mjc.stage0.loops.task3.base.BaseIOTest;
 import org.junit.jupiter.api.Test;
 
 class RangeSumTest extends BaseIOTest {
